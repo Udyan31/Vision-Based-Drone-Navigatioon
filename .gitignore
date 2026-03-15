@@ -1,0 +1,8 @@
+drone_env/
+torchhub/
+Depth-Anything/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
